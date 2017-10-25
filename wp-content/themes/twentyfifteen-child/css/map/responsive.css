@@ -1,0 +1,537 @@
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+	.scroll-ico { display:none; }
+.footer-clum {
+    padding: 30px 0;
+}
+.footer-clum ul { margin-bottom:20px; }
+.copy div {
+    float: none;
+    line-height: 24px;
+    text-align: center;
+    width: 100%;
+}
+
+.home-newsletter {
+    padding: 40px 20px;
+    width: auto;
+}
+.testimonial-block {
+    padding: 20px 0;
+    width: auto;
+}
+.testimonial-autr {
+    padding: 15px;
+}
+.testimonial_control {
+    padding: 10px;
+}
+
+.register-now {
+    padding: 40px 0;
+}
+.register-text {
+    text-align: center;
+}
+.register-btn {
+    display: block;
+    float: none;
+    width: 100%;
+}
+.register-btn a { display:block; margin:0 auto; }
+.video-clum {
+    padding: 20px 0;
+}
+
+.video-clum .video-text {
+    padding: 30px 20px;
+}
+.no-mng {
+    padding: 0 15px;
+}
+
+.right-sps {
+    padding-right: 15px;
+}
+
+.cus-Support {
+    margin-bottom: 30px;
+}
+
+
+
+.step-1 .step-circle {
+    border-radius: 0;
+    padding: 30px;
+}
+.step-1 .step-circle .step-icon {
+    border-radius: 0;
+    padding: 40px;
+}
+.available-featr {
+    padding: 50px 0;
+}
+
+
+
+.call-to {
+    box-shadow: 6px 15px 8px #3333;
+    padding: 7px; bottom: -70px;
+	  left: 0;
+}
+.call-to h1 {
+    font-size: 13px;
+    padding: 22px 6px;
+    text-align: center;
+}
+.call-to h1 span {
+    font-size: 20px;
+}
+
+.nanigation-top {
+    padding: 13px 0;
+    position: static;
+    width: 100%;
+}
+
+
+.main-menu .navbar-brand {
+    width: 190px;
+}
+
+.nanigation-top .navbar-toggle {
+    border-color: #333;
+}
+.nanigation-top .navbar-toggle .icon-bar {
+    background: #333 none repeat scroll 0 0;
+}
+
+
+.nanigation-top .navbar-collapse .nav.navbar-nav  {
+    background: #0296a4 none repeat scroll 0 0;
+    padding: 10px 0;
+}
+
+
+
+	.nanigation-top .navbar-collapse .nav.navbar-nav li {
+    border-bottom: 1px solid #037987;
+}
+
+	.nanigation-top .navbar-collapse .nav.navbar-nav li a {
+    color: #fff;
+    font-size: 16px;
+    padding: 16px 20px;
+}
+
+	.nanigation-top ul li a.login-btn { border:none;}
+
+
+
+
+.qto-ico {
+    display: none;
+    margin-bottom: 0;
+}
+
+.testimonial_control {
+    border-radius: 0;
+    min-height: 0;
+    padding: 10px;
+}
+
+
+.slide-text {
+    top: 5%;
+}
+.carousel-inner .cover-heading {
+    font-size: 30px;
+}
+.carousel-inner .lead {
+    font-size: 20px;
+}
+
+
+.slide-text > a.btn-default {
+    border: 3px solid rgba(255, 255, 255, 0.2);
+    font-size: 18px;
+    padding: 12px 18px;
+}
+
+
+.bg-shadow {
+    display: none;
+}
+
+.patient-works-clum h1 {
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+
+}
+
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 481px) and (max-device-width : 767px) {
+	.scroll-ico { display:none; }
+	
+	.patient-works-clum h1 {
+    margin-bottom: 30px;
+    text-align: center;
+}
+	
+	.bg-shadow {
+    display: none;
+}
+	
+	.nanigation-top .navbar-collapse .nav.navbar-nav li {
+    border-bottom: 1px solid #037987;
+}
+
+	.nanigation-top .navbar-collapse .nav.navbar-nav li a {
+    color: #fff;
+    font-size: 16px;
+    padding: 16px 20px;
+}
+
+	.nanigation-top ul li a.login-btn { border:none;}
+	
+	.bg-shadow { display:none;}
+	.nanigation-top {
+    padding: 13px 0;
+    position: static;
+    width: 100%;
+}
+
+
+.main-menu .navbar-brand {
+    width: 190px;
+}
+
+.nanigation-top .navbar-toggle {
+    border-color: #333;
+}
+.nanigation-top .navbar-toggle .icon-bar {
+    background: #333 none repeat scroll 0 0;
+}
+
+
+.nanigation-top .navbar-collapse .nav.navbar-nav  {
+    background: #0296a4 none repeat scroll 0 0;
+    padding: 10px 0;
+}
+	
+	
+	
+.slide-text {
+    top: 14%;
+}
+.carousel-inner .cover-heading {
+    font-size: 30px;
+}
+.carousel-inner .lead {
+    font-size: 20px;
+}
+	
+	
+	
+	.qto-ico {
+    display: none;
+    margin-bottom: 0;
+}
+
+.testimonial_control {
+    border-radius: 0;
+    min-height: 0;
+    padding: 10px;
+}
+	
+	
+	
+.footer-clum {
+    padding: 30px 0;
+}
+.footer-clum ul { margin-bottom:20px; }
+.copy div {
+    float: none;
+    line-height: 24px;
+    text-align: center;
+    width: 100%;
+}
+
+.home-newsletter {
+    padding: 40px 20px;
+    width: auto;
+}
+.testimonial-block {
+    padding: 20px 0;
+    width: auto;
+}
+.testimonial-autr {
+    padding: 15px;
+}
+.testimonial_control {
+    padding: 10px;
+}
+
+.register-now {
+    padding: 40px 0;
+}
+.register-text {
+    text-align: center;
+}
+.register-btn {
+    display: block;
+    float: none;
+    width: 100%;
+}
+.register-btn a { display:block; margin:0 auto; }
+.video-clum {
+    padding: 20px 0;
+}
+
+.video-clum .video-text {
+    padding: 30px 20px;
+}
+.no-mng {
+    padding: 0 15px;
+}
+
+.right-sps {
+    padding-right: 15px;
+}
+
+.cus-Support {
+    margin-bottom: 30px;
+}
+
+
+
+.step-1 .step-circle {
+    border-radius: 0;
+    padding: 60px;
+}
+.step-1 .step-circle .step-icon {
+    border-radius: 0;
+    padding: 60px;
+}
+.available-featr {
+    padding: 50px 0;
+}
+
+.patient-works-clum h1 {
+    margin-bottom: 40px;
+    text-align: center;
+}
+.patient-works-clum h1 span {  display: block; }
+
+.call-to {
+    bottom: -20px;
+    box-shadow: 6px 15px 8px #3333;
+    left: 70px;
+    padding: 7px;
+}
+.call-to h1 {
+    font-size: 13px;
+    padding: 22px 6px;
+    text-align: center;
+}
+.call-to h1 span {
+    font-size: 20px;
+}
+
+
+}
+
+
+
+
+
+/* Smartphones (portrait) ----------- */
+@media only screen and (max-width : 320px) {
+
+}
+
+/* Smartphones (portrait) ----------- */
+@media only screen and (max-width : 480px) {
+.slide-text {
+    top: 22%;
+}
+}
+
+
+
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+	
+	.scroll-ico { display:none; }
+	
+.call-to {
+    left: 0;   bottom: -80px;
+}	
+	
+.call-to h1 {
+    font-size: 17px;
+    padding: 40px 30px;
+}	
+
+.call-to h1 span {
+    font-size: 40px;
+}
+.slide-text {
+    top: 35%;
+}
+
+.carousel-inner .cover-heading {
+    font-size: 50px;
+}
+
+.carousel-inner .lead {
+    font-size: 24px;
+}
+
+.testimonial_btn {
+    display: block;
+    margin: 5px 0;
+    text-align: center;
+}
+
+
+	
+.patient-works-clum h1 {
+    margin-bottom: 40px;
+	 margin-top: 20px;
+    text-align: center;
+}
+.patient-works-clum h1 span {  display: block; }
+.video-clum {
+    padding: 40px 0;
+}
+
+.video-clum .video-text {
+    padding: 40px 20px;
+}
+
+.no-mng {
+    margin: 0;
+    padding: 0 15px 15px;
+}
+
+.step-1 .step-circle {
+    padding: 20px;
+}
+
+.step-1 .step-circle .step-icon {
+    padding: 40px 50px;
+}
+
+.step-icon span {
+    font-size: 25px;
+}
+
+.how-does {
+    padding: 50px 0;
+}
+.testimonial-block {
+    padding: 60px 0;
+    width: 100%;
+}
+
+.right-sps {
+    padding-right: 15px;
+}
+
+.home-newsletter {
+    padding: 50px 40px;
+    width: 100%;
+}
+
+.footer-clum {
+    margin-top: 30px;
+}
+
+.testimonial_control {
+    padding: 10px;
+}
+
+.ftr-img {
+    width: 70px;
+}
+
+.social-circle li a { width:36px; height:36px;}
+ul.social-network li {
+  display: inline-block;
+    margin: 0px 2px 10px 2px;
+}
+
+}
+
+
+
+
+
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 1024px) and (max-device-width : 1366px) {
+	.scroll-ico { display:none; }
+	
+	
+.step-1 .step-circle .step-icon {
+    padding: 60px 50px;
+}
+
+
+.testimonial-block {
+    padding: 60px 0;
+    width: 100%;
+}
+
+.home-newsletter {
+    padding: 130px 40px;
+    width: 100%;
+}
+
+
+}
+
+
+
+@media only screen and (min-device-width : 1025px) and (max-device-width :1199px) {
+.step-1 .step-circle .step-icon {
+    padding: 55px 40px;
+}
+.step-1 .step-circle .step-icon {
+    padding: 60px 80px;
+}
+
+}
+
+
+
+@media only screen and (min-device-width : 1366px) and (max-device-width : 1480px) {
+	.scroll-ico {     bottom: 150px; }
+	
+	
+}
+
+
+
+@media only screen and (min-device-width : 1366px) and (max-device-width :1440px) {
+
+.testimonial-block {
+    padding: 60px 0;
+    width: 100%;
+}
+
+.home-newsletter {
+    padding: 130px 40px;
+    width: 100%;
+}
+
+
+}
+
+
+

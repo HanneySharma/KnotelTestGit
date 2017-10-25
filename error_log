@@ -1,0 +1,2 @@
+[14-Aug-2017 10:49:13 UTC] WordPress database error Table 'knoteldb.wp_markers' doesn't exist for query SELECT * FROM wp_markers made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/twentyfifteen-child/homepage.php')
+[14-Aug-2017 11:49:47 UTC] WordPress database error Table 'knoteldb.wp_markers' doesn't exist for query SELECT * FROM wp_markers made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/twentyfifteen-child/homepage.php')

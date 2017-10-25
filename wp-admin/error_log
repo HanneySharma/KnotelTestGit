@@ -1,0 +1,1 @@
+[18-Aug-2017 15:05:11 UTC] PHP Fatal error:  Cannot unset string offsets in /home/securedteqmaven/public_html/knotel/wp-content/plugins/navz-photo-gallery/fields/acf-photo_gallery-v4.php on line 47
