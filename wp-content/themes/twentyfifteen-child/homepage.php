@@ -29,7 +29,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Knotel - Headquarters as a Service</title>
+    <title>Knotel - Headquarters as a Service remote1</title>
     <meta name="google-site-verification" content="xQNTNIX4ym2k1Rxk_P65bk1J6YriGf27nt-x19XpKIs">
     <link rel="stylesheet" type="text/css" href="<?php echo get_stylesheet_directory_uri(); ?>/fonts.css">
     <link rel="stylesheet" type="text/css" href="<?php echo get_stylesheet_directory_uri(); ?>/css/bootstrap.css">
